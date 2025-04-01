@@ -1,6 +1,6 @@
 # Evergo-Kernal-OpenSource-xaiomi-note-11t-5g
 lunix kernal redmi note 11 t 5g
-Linux kernel
+
 ============
 
 This file was moved to Documentation/admin-guide/README.rst
